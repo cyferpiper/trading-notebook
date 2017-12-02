@@ -1,4 +1,4 @@
-site_name: cyferpiper's Trading Notebook
+site_name: Cyferpiper's Trading Notebook
 theme:
     name: material
     custom_dir: 'material'
@@ -8,7 +8,7 @@ pages:
     - General:
       - Order Types: general/order-types.md
       - Terminology: general/terminology.md
-      - Manipulation: general/manipulation.md
+      - Market Manipulation: general/market-manipulation.md
       - Trade Strategy: general/trade-strategy.md
     - Indicators:
         - MACD: indicators/macd.md

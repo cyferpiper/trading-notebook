@@ -1,4 +1,4 @@
-# Manipulation
+# Market Manipulation
 
 ## Buy & Sell Walls
 
