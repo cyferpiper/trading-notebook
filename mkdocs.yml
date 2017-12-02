@@ -1,0 +1,7 @@
+site_name: cyferpiper's Trading Notebook
+theme:
+    name: material
+    custom_dir: 'material'
+repo_url: "https://github.com/cyferpiper/trading-notebook"
+pages:
+    - Home: index.md
