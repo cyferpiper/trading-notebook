@@ -5,3 +5,14 @@ theme:
 repo_url: "https://github.com/cyferpiper/trading-notebook"
 pages:
     - Home: index.md
+    - General:
+      - Order Types: general/order-types.md
+      - Terminology: general/terminology.md
+      - Manipulation: general/manipulation.md
+      - Trade Strategy: general/trade-strategy.md
+    - Indicators:
+        - MACD: indicators/macd.md
+    - Technical Analysis:
+      - Patterns & Signals:
+        - Double Bottoms & Tops: technical-analysis/patterns-and-signals/double-bottoms-and-tops.md
+        - Head & Shoulders: technical-analysis/patterns-and-signals/head-and-shoulders.md
