@@ -12,8 +12,10 @@ pages:
       - Trade Strategy: general/trade-strategy.md
       - Market Manipulation: general/market-manipulation.md
     - Indicators:
+        - Elliot Waves: indicators/elliot-waves.md
         - MACD: indicators/macd.md
         - Order Books: indicators/order-books.md
+        - Relative Strength Index: indicators/rsi.md
     - Patterns & Signals:
       - Double Bottoms & Tops: patterns-and-signals/double-bottoms-and-tops.md
       - Head & Shoulders: patterns-and-signals/head-and-shoulders.md
