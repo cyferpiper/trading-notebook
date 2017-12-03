@@ -13,7 +13,6 @@ pages:
       - Market Manipulation: general/market-manipulation.md
     - Indicators:
         - MACD: indicators/macd.md
-    - Technical Analysis:
-      - Patterns & Signals:
-        - Double Bottoms & Tops: technical-analysis/patterns-and-signals/double-bottoms-and-tops.md
-        - Head & Shoulders: technical-analysis/patterns-and-signals/head-and-shoulders.md
+    - Patterns & Signals:
+      - Double Bottoms & Tops: patterns-and-signals/double-bottoms-and-tops.md
+      - Head & Shoulders: patterns-and-signals/head-and-shoulders.md
