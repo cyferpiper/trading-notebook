@@ -6,10 +6,11 @@ repo_url: "https://github.com/cyferpiper/trading-notebook"
 pages:
     - Home: index.md
     - General:
-      - Order Types: general/order-types.md
       - Terminology: general/terminology.md
-      - Market Manipulation: general/market-manipulation.md
+      - Order Types: general/order-types.md
+      - Bankroll Management: general/bankroll-management.md
       - Trade Strategy: general/trade-strategy.md
+      - Market Manipulation: general/market-manipulation.md
     - Indicators:
         - MACD: indicators/macd.md
     - Technical Analysis:
